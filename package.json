@@ -1,11 +1,11 @@
 {
-  "name": "run-seq-s-p",
+  "name": "run-s-p",
   "version": "1.0.0",
   "description": "Run commands in sequence or in parallel.",
   "type": "module",
   "main": "index.js",
   "bin": {
-    "run-seq": "cli.js"
+    "run": "cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
